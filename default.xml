@@ -7,6 +7,9 @@
 
 
   <!--Evervolv AOSP Projects-->
+  <project path="device/htc/supersonic" name="android_device_htc_supersonic" remote="github" revision="jellybean"/>
+  <project path="device/htc/qsd8k-comon" name="android_device_htc_qsd8k-common" remote="github" revision="jellybean"/>
+  <project path="vendor/htc" name="android_vendor_htc" remote="github" revision="jellybean"/>
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="github" revision="jellybean"/>
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="github" revision="jellybean"/>
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="github" revision="jellybean"/>
