@@ -1,7 +1,7 @@
 androidmisc
-===========
+============
 
-misc. defines for supersonic
+
 
 #Included
 #device
@@ -9,10 +9,7 @@ misc. defines for supersonic
   
   supersonic
 
-#hardware-legacy
-  qsd8k
-  
-  supersonic
+#hardware
   
 #kernel
 
@@ -23,6 +20,4 @@ misc. defines for supersonic
 
 #visit Evervolv and TroNit github for more.
 
-
-feel free to fork this if you wish. I will not allow commits other than my own. Thanks
   
